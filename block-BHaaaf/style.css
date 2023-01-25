@@ -1,0 +1,17 @@
+body
+{
+    background-color: greenyellow;
+}
+
+.heading
+{
+    color: red;
+    font-size: 100px;
+}
+
+#unique
+{
+    color: black;
+    font-size: 50px;
+
+}
