@@ -1,0 +1,36 @@
+body
+{
+    background-color: rgb(0,51,102);
+    color: white;
+    font-family: sans-serif;
+
+}
+
+h2
+{
+    color: forestgreen;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h3
+{
+    font-size: 20px;
+}
+
+h1
+{
+    font-size: 45px;
+}
+
+address
+{
+    font-style: normal;
+    font-weight: bold;
+}
+
+a:link {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+ }
