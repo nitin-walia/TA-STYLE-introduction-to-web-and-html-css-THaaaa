@@ -1,0 +1,43 @@
+body
+{
+    background-color: rgb(0,51,102);
+    color: white;
+    font-family: sans-serif;
+
+}
+
+.center 
+{
+    display: block;
+    margin: 0 auto;
+}
+
+h1
+{
+    font-size: 45px;
+    text-align: center;
+}
+
+address
+{
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+}
+h2
+{
+    color: forestgreen;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h3
+{
+    font-size: 20px;
+}
+
+a{
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+ }
