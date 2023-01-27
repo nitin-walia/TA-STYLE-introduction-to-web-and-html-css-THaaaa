@@ -12,17 +12,21 @@ body
     margin: 0 auto;
 }
 
+.textcenter
+{
+    text-align: center;
+}
+
 h1
 {
     font-size: 45px;
-    text-align: center;
 }
 
 address
 {
     font-style: normal;
     font-weight: bold;
-    text-align: center;
+
 }
 h2
 {
@@ -35,7 +39,11 @@ h3
 {
     font-size: 20px;
 }
-
+.footer
+{
+    background-color: #11244d;
+    text-align: center;
+}
 a{
     color: red;
     background-color: transparent;
